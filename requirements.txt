@@ -1,0 +1,6 @@
+torch  # install the CPU build: pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
+streamlit
+numpy
+pandas
+pillow
